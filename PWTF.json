@@ -4,9 +4,9 @@
 "zhanyuan": [
 
     {
-        "homeimage": "//img[@class=&&&lazy lazy1 gen-movie-img mask-1&&&]//@data-original",
-        "homevodname": "//a[@class=&&&time-title hide ft4&&&]/@title",
-        "homevodurl": "//a[@class=&&&time-title hide ft4&&&]/@href",
+        "homeimage": "//div[@class=&&&public-list-box public-pic-b [swiper]&&&]//img[@class=&&&lazy lazy1 gen-movie-img mask-1&&&]//@data-original",
+        "homevodname": "//div[@class=&&&public-list-box public-pic-b [swiper]&&&]//a[@class=&&&time-title hide ft4&&&]/@title",
+        "homevodurl": "//div[@class=&&&public-list-box public-pic-b [swiper]&&&]//a[@class=&&&time-title hide ft4&&&]/@href",
         "fenlei": "电影#/vodtype/1-----------.html|电视剧#/vodtype/2-----------.html|综艺#/vodtype/3-----------.html|动漫#/vodtype/4-----------.html",
         "page": "/vodtype/1--------#---.html|/vodtype/2--------#---.html|/vodtype/3--------#---.html|/vodtype/4--------#---.html",
         "name": "纽约影院",
