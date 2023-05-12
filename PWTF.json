@@ -3,7 +3,7 @@
 "dyzuozhe": "888",
 "zhanyuan": [
         {
-            "homeimage": "//img[@class,&&&lazy lazy1 mask-1&&&]/@data-original",
+            "homeimage": "//img[@class=&&&lazy lazy1 mask-1&&&]/@data-original",
             "homevodname": "//a[@class=&&&time-title hide ft4&&&]/@title",
             "homevodurl": "//a[@class=&&&time-title hide ft4&&&]/@href",
             "fenlei": "电影#/vodtype/1-----------.html|电视剧#/vodtype/2-----------.html|综艺#/vodtype/3-----------.html|动漫#/vodtype/4-----------.html",
