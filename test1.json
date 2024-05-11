@@ -11,6 +11,7 @@
         {"key":"aosikazy","name":"奥斯卡资源站","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
         {"key":"moduzy","name":"魔都资源网","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
         {"key":"wujinzy","name":"无尽资源网","type":1,"api":"https://api.wujinapi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-        {"key":"yzzy","name":"优质资源网","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","searchable":1,"quickSearch":1}
+        {"key":"yzzy","name":"优质资源网","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","searchable":1,"quickSearch":1},
+        {"key":"私密影院","name":"私密影院","type":1,"api":"https://simiyy.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
     ]
 }

@@ -50,8 +50,32 @@
 
 
 
+{"key":"私密影院","name":"私密影院","type":1,"api":"https://simiyy.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
+
+
+
+
+
+{"key":"360zy","name":"360资源","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
+
+
+
+
+{"key": "zzdj","name":"短剧","type":1,"api":"https://zzdj.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"changeable":1}
+
+
+
+
+
+
+
+
+
 
 {"key":"testwebzy","name":"测试资源","type":1,"api":"https://myflixer.is/sitemap.xml","searchable":1,"quickSearch":1}
+
+
+
 
 
 
