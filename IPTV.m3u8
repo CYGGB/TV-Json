@@ -9,10 +9,10 @@ http://175.21.170.6:5000/hls/1/index.m3u8
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视IPV4",CCTV3
-http://111.75.151.236:50085/newlive/live/hls/3/live.m3u8
+http://cfss.cc/ds/bst/qp.php?cdn=116.162.6.191/bst.v.smtcdns.net/scbuv52.live.bestvcdn.com.cn/Cf&hf=2&vid=cctv38m/8000000&key=22446&Cf.m3u8
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视IPV4",CCTV4
-http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv4/1300000/mnf.m3u8
+http://cfss.cc/ds/bst/qp.php?cdn=116.162.6.191/bst.v.smtcdns.net/zjbuv52.live.bestvcdn.com.cn/Cf&hf=2&vid=cctv4hd8m/8000000&key=22446&Cf.m3u8
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视IPV4",CCTV4K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
@@ -36,9 +36,7 @@ https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv9hd8m/8000000/mnf.m3u8
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视IPV4",CCTV10
-https://z88.ubtvfans.com/live/rx1/210/a28130d460715803b16001174421cefd/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视IPV4",CCTV10
-http://183.203.143.228:5003/cctv1.m3u8?token=7375646fb81137a972686459bba828335a2a27f3
+http://cfss.cc/ds/bst/qp.php?cdn=116.162.6.191/bst.v.smtcdns.net/scbuv52.live.bestvcdn.com.cn/Cf&hf=2&vid=cctv10hd8m/8000000&key=22446&Cf.m3u8
 
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视IPV4",CCTV11
